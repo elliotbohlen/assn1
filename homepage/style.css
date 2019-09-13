@@ -110,6 +110,8 @@ video{
 }
 
 .imp{
+  position:absolute;
+  left: 10px;
   transform: skewY(-30deg);
   font-size:1.3em;
   color:blue !important;
