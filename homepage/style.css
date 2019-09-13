@@ -1,0 +1,161 @@
+body{
+  font-weight:100;
+  padding:0px;
+  margin:0px;
+  font-family:'Nanum Gothic Codings', 'Roboto';
+  text-transform: uppercase;
+}
+
+a, a:visited{
+  color:black;
+  text-decoration:none;
+  font-size:1rem;
+}
+
+div{
+   align-self:flex-end;
+}
+
+img{
+  height:300px;
+  width:400px;
+  border: 0px solid black;
+}
+
+video{
+  height:300px;
+  width:400px;
+  border: 0px solid black;
+}
+
+.wrapper{
+  display:grid;
+  position:fixed;
+  grid-template-columns: 1fr 3fr 500px;
+  grid-auto-rows: auto;
+  height:100vh;
+  width:100vw;
+  border: 1px solid black;
+  align-self:flex-end;
+}
+
+.gridhome{
+  display: grid;
+  grid-template-columns:1fr;
+  grid-auto-rows: auto;
+  height:100vh;
+  grid-column: 1 / 4;
+  align-self:flex-end;
+  padding-bottom:30px;
+}
+
+.gridcol1{
+  display: grid;
+  grid-template-columns:1fr;
+  grid-auto-rows: auto;
+  height:100vh;
+  border-right: 1px solid black;
+  grid-column: 1 ;
+}
+
+.gridcol2{
+  display: grid;
+  grid-template-columns:1fr;
+  grid-auto-rows: auto;
+  height:100vh;
+  border-right: 1px solid black;
+  grid-column: 2 / 4 ;
+}
+
+.slides{
+  position:absolute;
+  background-color:white;
+  display:grid;
+  grid-template-column: 1fr;
+  grid-template-row:auto;
+  grid-gap:10px;
+  right:20px;
+  overflow-y:scroll;
+  width:400px;
+  z-index:3;
+  border: 1px solid black;
+  margin:30px;
+}
+
+.gridcol{
+  display: grid;
+  grid-template-columns:1fr;
+  grid-auto-rows: auto;
+  height:100vh;
+  border-right: 1px solid black;
+  grid-column: 1 ;
+  text-align:center;
+}
+
+/* other */
+
+.links{
+  border-bottom: 1px solid black;
+  padding-left:5px;
+}
+
+.select{
+  transform: skewY(30deg);
+  font-size:1.6em;
+  color:blue !important;
+}
+
+.final{
+ color:blue !important;
+}
+
+.imp{
+  transform: skewY(-30deg);
+  font-size:1.3em;
+  color:blue !important;
+  border-bottom: 1px solid blue;
+}
+.impi{
+  transform: skewY(-40deg);
+  text-align:right;
+  padding:3px;
+  font-size:1.3em;
+  color:blue !important;
+  border-bottom: 1px solid blue;
+}
+/* tooltip */
+
+  .tooltip
+  {
+    text-decoration:none;
+    position:relative;
+  }
+
+
+  .tooltip span
+  {
+    display:none;
+    background:white;
+  }
+
+
+  .tooltip span img
+  {
+    float:left;
+    width:370px;
+    height: auto;
+    border:1px solid black;
+  }
+
+
+  .tooltip:hover span
+  {
+    display:block;
+    position:absolute;
+    bottom: 20px;
+    left:250px;
+    z-index:1000;
+    margin-top:0px;
+    margin-left:0px;
+    overflow:hidden;
+  }
