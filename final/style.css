@@ -30,6 +30,11 @@ button {
   color:blue;
   text-decoration: underline;
 }
+button:hover {
+  background-color: blue;
+  color: white;
+
+}
 input[type=text] {
   height:30px;
   width:360px;
@@ -49,6 +54,11 @@ p{
 a:visited{
   color:blue;
 }
+a:hover{
+  background-color:blue;
+  color:white;
+}
+
 
 .hide{
   display: none;
