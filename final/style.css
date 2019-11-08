@@ -46,22 +46,32 @@ p{
   margin:15px;
   border:2px solid blue;
 }
-
+a:visited{
+  color:blue;
+}
 
 .hide{
   display: none;
 }
 .show{display: block;}
 
-.bg{
+#bg{
   position:absolute;
-  left:0px;
-  bottom:0px;
+  right:33%;
+  bottom:0;
   width:600px;
-  font-size:1.2rem;
+  font-size:1.5rem;
   line-height:1.05;
   padding:25px;
   padding-right: 38px;
+}
+#realface{
+  position:absolute;
+  bottom:20px;
+  width:600px;
+  font-size:1.3rem;
+  line-height:1.05;
+
 }
 .rose{
   display:none;
@@ -74,14 +84,13 @@ p{
   padding:25px;
   padding-right: 38px;
 }
-.face{
-  opacity:.7;
+#face{
+  opacity:1;
   width:120vw;
   left:20px;
   z-index: -1;
 }
 #one{
-
   position:absolute;
   z-index: 10;
   width:100vw;
@@ -97,8 +106,9 @@ p{
 }
   #lets{
     position:absolute;
-    top: 35%;
-    left:42vw;
+    top: 38%;
+    left:40vw;
+    width:220px;
   }
   #lets:hover{
     background-color:blue;

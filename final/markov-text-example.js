@@ -8,9 +8,13 @@ function outputFromModel() {
 	markovExample.learn(document.getElementById('textAreaInput').textContent);
 	var markovOutput = markovExample.output(document.getElementById('numberOfWords').value);
 	document.getElementById('textAreaOutput').classList.remove("hide");
-	document.getElementById('textAreaOutput').innerHTML = markovOutput + ".  <br><em>GOT IT????? </em>";
+	document.getElementById('textAreaOutput').innerHTML = markovOutput + `.  <br>
 
+	<a href="">GOT IT LOSER?????</a>
+	`;
 
+	document.getElementById('face').classList.add("hide");
+	document.getElementById('realface').classList.remove("hide");
 	var element = document.getElementById("center");
   element.classList.add("hide");
 	console.log("hey")

@@ -33,7 +33,9 @@ $("document").ready(function(){
 function hideMe() {
   var element = document.getElementById("one");
   element.classList.add("hide");
-	document.getElementById("center").classList.remove("hide")
+	document.getElementById("center").classList.remove("hide");
+	document.getElementById("face").classList.remove("hide");
+	document.getElementById("bg").classList.add("hide");
 	console.log("hey")
 }
 
