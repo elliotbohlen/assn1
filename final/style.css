@@ -1,0 +1,133 @@
+*{
+  text-transform: uppercase;
+  margin:0px;
+
+}
+body{
+  color:blue;
+  font-size: 1.5rem;
+  font-weight: lighter;
+  line-height: 1.5rem;
+}
+
+em{
+  font-style: normal;
+  text-decoration: underline;
+}
+
+button {
+  background-color: blue;
+  border: 2px solid blue;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  font-size: 1.5rem;
+  font-family: serif;
+  margin:15px;
+  padding:5px;
+  background-color:white;
+  color:blue;
+  text-decoration: underline;
+}
+input[type=text] {
+  height:30px;
+  width:360px;
+  border: 2px solid blue;
+  margin:15px;
+  color:blue;
+  font-family: serif;
+  font-size: 1.5rem;
+}
+
+p{
+  background-color:white;
+  padding:5px;
+  margin:15px;
+  border:2px solid blue;
+}
+
+
+.hide{
+  display: none;
+}
+.show{display: block;}
+
+.bg{
+  position:absolute;
+  left:0px;
+  bottom:0px;
+  width:600px;
+  font-size:1.2rem;
+  line-height:1.05;
+  padding:25px;
+  padding-right: 38px;
+}
+.rose{
+  display:none;
+  position:absolute;
+  right:-100px;
+  top:0px;
+  width:600px;
+  font-size:.8rem;
+  line-height:1.05;
+  padding:25px;
+  padding-right: 38px;
+}
+.face{
+  opacity:.7;
+  width:120vw;
+  left:20px;
+  z-index: -1;
+}
+#one{
+
+  position:absolute;
+  z-index: 10;
+  width:100vw;
+  height:100vh;
+}
+
+#intro{
+  position:absolute;
+  text-align: center;
+  top:25%;
+  right:35%;
+  width:400px;
+}
+  #lets{
+    position:absolute;
+    top: 35%;
+    left:42vw;
+  }
+  #lets:hover{
+    background-color:blue;
+    color:white;
+  }
+
+#center{
+  background-color: white;
+    position: absolute;
+    z-index: 1 !important;
+    top:24%;
+    right:37%;
+    width:400px;
+    border: 2px solid blue;
+  }
+#textAreaOutput{
+  position: absolute;
+  right:6%;
+  top:10%;
+  padding:10px;
+  height:auto;
+  width:660px;
+  border:2px solid blue;
+  z-index:8 !important;
+  color:blue;
+  background-color: white;
+}
+#numberOfWords{
+  display:none;
+}
+#textAreaInput{
+  display:none;}
