@@ -9,7 +9,6 @@ function outputFromModel() {
 	var markovOutput = markovExample.output(document.getElementById('numberOfWords').value);
 	document.getElementById('textAreaOutput').classList.remove("hide");
 	document.getElementById('textAreaOutput').innerHTML = markovOutput + `.  <br>
-
 	<a href="">GOT IT LOSER?????</a>
 	`;
 
