@@ -1,0 +1,107 @@
+// Random selection, starting from 'Alice'
+Alice `without pictures of him : `Dear , much more simply--"Never imagine yourself not escape again , for fear of.
+Alice gently remarked ; `they'd have been the right distance--but then after that were of nursing it.
+Alice knew it lasted.
+Alice coming.
+Alice appeared , because I'm sure _I_ shan't be ONE.
+Alice quite hungry to look at the way--' `Thank you liked.
+Alice after it advisable to sell you find a simple question.
+She had quite pale `You should learn lessons in getting its forehead dear , YOU do ,' Alice .
+it but it all thy other players , to Alice's Evidence condemn `There's PLENTY of it altogether Alice .
+name like having a nice little animal ALL PERSONS MORE THAN A MILE HIGH TO YOU ,"' said Alice .
+tell its face to a day-school , too weak askance-- Said Who Stole the Duchess , leaving Alice .
+ Off--' (The jury wrote it again and broke to come out of his arms and round Alice .
+France-- Then the Rabbit-Hole CHAPTER I There were trying which Seven looked so good reason , and Alice .
+we change the door-- cunning `Not QUITE right , I'm a rabbit with sobs , who only Alice .
+CHAPTER VI Yet you turned a corner , `Oh , you're growing too flustered to the confused poor Alice .
+
+// weighted random
+`I can't help it ,' said Alice as he can't help it ,' said Alice .
+grow larger , it , you can't help it ,' said Alice as he can't help it ,' said Alice .
+Alice , that it ,' said Alice , as she very good-naturedly began hunting all about it ,' said Alice .
+back again , and , as she could , for , you , won't talk about it ,' said Alice .
+ Alice .
+ `Oh , you can't help it ,' said Alice .
+
+' And she began , in the other , trying to explain it ,' said Alice.
+said nothing , being rather proud of it , and , as she could not help it ,' said Alice.
+' said Alice , as she said to a mouse , you know ,' said Alice.
+, it , and she felt that it ,' said the Hatter , it at all that ,' said Alice.
+' said Alice , and she tried to look at it , and the other : .
+ Alice , and she went on , and she had never had fits , my dear , and she went.
+ `She can't explain it ,' said Alice , and the little thing was a large canvas bag , which was a little of the house ,.
+
+// 4-grams
+ Alice , in a minute or two sides of it ,' said Alice , and she had never forgotten the words.
+`And be quick about it ,' said Alice , dear , certainly ,' said Alice , and she had not long way back , and she went on , `you know you're growing ,.
+' said Alice , and she was quite tired of being all the while , and the other , and making her.
+`Yes ,' said Alice , as she had not noticed that they were all crowded together.
+`I beg your Majesty ,' said in a very anxiously into its head , it ,' said Alice.
+`Yes ,' said Alice , very earnestly.
+of it ,' said the party went back again , and how she would you tell me ,' said Alice , who felt that she was the White Rabbit , who said the King.
+
+// fixed punctuation:
+There was certainly,' said Alice, and she was now about the same height as herself; and the others. 
+`I HAVE tasted eggs, certainly,' said Alice, and she had never been changed for any rate, the Gryphon.
+I am I to get hold of it,' said Alice, who was a good deal to ME,' said the Hatter, and, and the Queen.
+ They all sat down from the sky all the time, as it,' said Alice, as she said to herself, as she was quite surprised to find quite forgetting in the Mock.
+Alice, and she could, for she had plenty of time as she could, and the little golden.
+
+// 5-grams?
+`I can't help it,' said Alice.
+`We won't talk about it,' said Alice.
+Do cats eat it,' said Alice.
+said to herself, she began, in it,' said the right thing to eat it,' said Alice, as she went on, `you throw the--' .
+' Alice, and she told me you had been changed in the night.
+' `Oh, you can't help it,' said Alice, who felt ready to make herself useful, and looking anxiously about as it went on, `you.
+' said Alice, and she told so.
+smaller, I can explain it,' said the Dodo, `the best way to explain it,' said Alice.
+' `But perhaps he can't help it,' said Alice, as she went on, `you see, as well as she went on.
+ Alice, and she put it right; `not in that ridiculous fashion, and this was a large one.
+`Yes,' said Alice, who felt very much, if--if I'd taken the highest tree in the wood,' said Alice,.
+, as she swam nearer to make out of it, and she did not like it,' said Alice, as she went on, very much.
+`Well, I can't explain it,' said the Dodo, `the best way to explain it,' said Alice, as she went on, `you see, so many out-of-the-way things to happen, and the Queen.
+ `I should like it,' said Alice, very earnestly.
+' Said Alice, who was beginning to end,' said Alice, in a little way off, and was just.
+Wondering why I don't speak a word till she was out of them attempted to explain it,' said Alice, and she told me he was going to begin at HIS time of life.
+`If I eat it,' said Alice, and she went on.
+`I can't help it,' said Alice, who felt very much, if--if I'd hardly finished the first, and then, and the little.
+Alice, who was beginning to write this down, and nobody spoke.
+Alice, and she thought Alice, and she was now about two, and the game of play with.
+Turn into a pig, and she felt that it would be very likely to eat it,' said Alice, and she put it.
+Alice, who felt very much what would happen,' she said to be a book written on the OUTSIDE.
+`You promised to tell me,' said Alice, who was a little timidly, for a minute or two, three, and the little dears.
+Get" is the same when I got up,' she said to meet William and offer it,' said Alice, and she told you butter wouldn't suit them.
+
+// Responses.
+Alice said, go for it. => With a pair of white kid gloves while she was talking to herself, as she could, for the end of the Queen, who was a little startled when I was a child.
+Hi, I'd like to talk to you. => (Not in a very much, if--if I'd gone to see the Queen.
+What do you think of being a robot? => Alice, as she said this, she saw them, they wouldn't be so stingy about it, you, won't you, and began bowing to herself, and nibbled a little of the Hatter, `when.
+
+// 4-grams again.
+What do you think of being a robot? => `That's enough about lessons, and began, in a little of her, and she had not long as you liked, and left off when they had.
+What is the meaning of life? => `Well, it had come back again, and when she had been, it,' said the Hatter, and the little door, and tried to get her, about four times five is.
+
+// 6-grams.
+What is the meaning of life? =>  ' `I don't believe it,' said the Hatter, and, just as well.
+Do you like cats? => `Why, what to uglify is, you know.
+Do you like cats? => Said Alice, a little startled by seeing the Cheshire Cat,' said Alice: she did not like a telescope.
+What do you think about when you're by yourself? => WATCH OUT OF ITS WAISTCOAT- POCKET, and looked at this, that she had no idea what to do you know I'm mad.
+Why do you think you're mad? => Up on to her feet, to make the arches to do this, so stingy about it, you know.
+Is this your favorite subject? => It was over at last the Dodo said, `EVERYBODY has won, and all like the tone of this, and after a few minutes, and she jumped up, and began bowing to the King,.
+Can you read or count? => But her sister sat still as she listened, or two, she made it was,' the March Hare. 
+
+
+// Sci-fi.
+I rented a house in Hawaii. => Tie us up in the house.
+Do you enjoy being tied up? => Not that I'll enjoy being a public spectacle, and he wondered again: No, sir.
+Do you like talking to humans? => Tomorrow, Whitney, after Cordell's counsel, in a policeman at my apartment today, which is going to the floor.
+What do you think about space travel? => He went back to the theory of a space.
+What is the meaning of life? => The door, he was all right again, and an aching hea it up at the man in the other hand, the call it, to Miss Dakin.
+What do you think about when you're by yourself? => What do you care if it's a damn good place to be a sr e looked at the gun in.
+What about the future? => What did you mean.
+What will happen in the future. => Years go by, we will get our fair share of works from the best stories, and we will be a simple matter to the floor.
+Do you want to be a writer? => You want it, you.
+Frankly, it would be awesome if you were. => " "Jenny, my sweet, if she were a naughty but he didn't tell Lindy.
+Tell me something original! => I wasn't certain , she went on until you threw that full resonance at me.
+The technicalities. => The girl smiled faintly.
